@@ -1,3 +1,6 @@
 [submodule "app/athens"]
 	path = app/athens
 	url = https://github.com/athensresearch/athens.git
+[submodule "app/hugit"]
+	path = app/hugit
+	url = https://github.com/hugit-project/hugit.git
