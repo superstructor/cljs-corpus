@@ -7,3 +7,6 @@
 [submodule "app/zetawar"]
 	path = app/zetawar
 	url = https://github.com/Zetawar/zetawar.git
+[submodule "app/portal"]
+	path = app/portal
+	url = git@github.com:djblue/portal.git
