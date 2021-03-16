@@ -19,3 +19,6 @@
 [submodule "lib/autonormal"]
 	path = lib/autonormal
 	url = git@github.com:lilactown/autonormal.git
+[submodule "lib/posh"]
+	path = lib/posh
+	url = git@github.com:denistakeda/posh.git
