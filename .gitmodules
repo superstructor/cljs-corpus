@@ -13,3 +13,6 @@
 [submodule "lib/datascript"]
 	path = lib/datascript
 	url = git@github.com:tonsky/datascript.git
+[submodule "doc/clojure-graph-resources"]
+	path = doc/clojure-graph-resources
+	url = git@github.com:simongray/clojure-graph-resources.git
