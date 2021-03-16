@@ -16,3 +16,6 @@
 [submodule "doc/clojure-graph-resources"]
 	path = doc/clojure-graph-resources
 	url = git@github.com:simongray/clojure-graph-resources.git
+[submodule "lib/autonormal"]
+	path = lib/autonormal
+	url = git@github.com:lilactown/autonormal.git
