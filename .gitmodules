@@ -4,3 +4,6 @@
 [submodule "app/hugit"]
 	path = app/hugit
 	url = https://github.com/hugit-project/hugit.git
+[submodule "app/zetawar"]
+	path = app/zetawar
+	url = https://github.com/Zetawar/zetawar.git
