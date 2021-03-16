@@ -10,3 +10,6 @@
 [submodule "app/portal"]
 	path = app/portal
 	url = git@github.com:djblue/portal.git
+[submodule "lib/datascript"]
+	path = lib/datascript
+	url = git@github.com:tonsky/datascript.git
