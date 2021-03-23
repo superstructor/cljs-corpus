@@ -25,3 +25,6 @@
 [submodule "lib/cljs-oops"]
 	path = lib/cljs-oops
 	url = https://github.com/binaryage/cljs-oops.git
+[submodule "lib/clojurescript"]
+	path = lib/clojurescript
+	url = https://github.com/clojure/clojurescript.git
