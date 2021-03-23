@@ -22,3 +22,6 @@
 [submodule "lib/posh"]
 	path = lib/posh
 	url = git@github.com:denistakeda/posh.git
+[submodule "lib/cljs-oops"]
+	path = lib/cljs-oops
+	url = https://github.com/binaryage/cljs-oops.git
