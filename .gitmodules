@@ -28,3 +28,6 @@
 [submodule "lib/clojurescript"]
 	path = lib/clojurescript
 	url = https://github.com/clojure/clojurescript.git
+[submodule "lib/reagent"]
+	path = lib/reagent
+	url = https://github.com/reagent-project/reagent.git
