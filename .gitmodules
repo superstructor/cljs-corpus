@@ -31,3 +31,6 @@
 [submodule "lib/reagent"]
 	path = lib/reagent
 	url = https://github.com/reagent-project/reagent.git
+[submodule "lib/datahike"]
+	path = lib/datahike
+	url = git@github.com:replikativ/datahike.git
