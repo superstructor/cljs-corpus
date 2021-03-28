@@ -43,3 +43,6 @@
 [submodule "app/circleci-frontend"]
 	path = app/circleci-frontend
 	url = git@github.com:CircleCI-Archived/frontend.git
+[submodule "lib/devcards"]
+	path = lib/devcards
+	url = git@github.com:bhauman/devcards.git
