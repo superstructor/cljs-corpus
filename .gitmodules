@@ -73,3 +73,6 @@
 [submodule "lib/bidi"]
 	path = lib/bidi
 	url = git@github.com:juxt/bidi.git
+[submodule "app/logseq"]
+	path = app/logseq
+	url = git@github.com:logseq/logseq.git
