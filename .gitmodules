@@ -106,3 +106,6 @@
 [submodule "lib/malli"]
 	path = lib/malli
 	url = git@github.com:metosin/malli.git
+[submodule "lib/sci"]
+	path = lib/sci
+	url = git@github.com:borkdude/sci.git
