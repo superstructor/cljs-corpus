@@ -79,3 +79,6 @@
 [submodule "lib/shadow-cljs"]
 	path = lib/shadow-cljs
 	url = git@github.com:thheller/shadow-cljs.git
+[submodule "lib/google-closure-compiler"]
+	path = lib/google-closure-compiler
+	url = git@github.com:google/closure-compiler.git
