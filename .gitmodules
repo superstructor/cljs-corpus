@@ -103,3 +103,6 @@
 [submodule "lib/fulcro"]
 	path = lib/fulcro
 	url = git@github.com:fulcrologic/fulcro.git
+[submodule "lib/malli"]
+	path = lib/malli
+	url = git@github.com:metosin/malli.git
