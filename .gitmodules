@@ -91,3 +91,6 @@
 [submodule "lib/tongue"]
 	path = lib/tongue
 	url = git@github.com:tonsky/tongue.git
+[submodule "lib/cljs-devtools"]
+	path = lib/cljs-devtools
+	url = git@github.com:binaryage/cljs-devtools.git
