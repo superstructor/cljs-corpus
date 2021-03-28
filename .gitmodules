@@ -82,3 +82,6 @@
 [submodule "lib/google-closure-compiler"]
 	path = lib/google-closure-compiler
 	url = git@github.com:google/closure-compiler.git
+[submodule "lib/google-closure-library"]
+	path = lib/google-closure-library
+	url = git@github.com:google/closure-library.git
