@@ -94,3 +94,6 @@
 [submodule "lib/cljs-devtools"]
 	path = lib/cljs-devtools
 	url = git@github.com:binaryage/cljs-devtools.git
+[submodule "lib/garden"]
+	path = lib/garden
+	url = git@github.com:noprompt/garden.git
