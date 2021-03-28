@@ -61,3 +61,6 @@
 [submodule "app/status-react"]
 	path = app/status-react
 	url = git@github.com:status-im/status-react.git
+[submodule "app/sulolive"]
+	path = app/sulolive
+	url = git@github.com:eponai/sulolive.git
