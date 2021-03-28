@@ -64,3 +64,6 @@
 [submodule "app/sulolive"]
 	path = app/sulolive
 	url = git@github.com:eponai/sulolive.git
+[submodule "lib/unravel"]
+	path = lib/unravel
+	url = git@github.com:Unrepl/unravel.git
