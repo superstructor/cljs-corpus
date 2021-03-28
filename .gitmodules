@@ -100,3 +100,6 @@
 [submodule "lib/clj-kondo"]
 	path = lib/clj-kondo
 	url = git@github.com:clj-kondo/clj-kondo.git
+[submodule "lib/fulcro"]
+	path = lib/fulcro
+	url = git@github.com:fulcrologic/fulcro.git
