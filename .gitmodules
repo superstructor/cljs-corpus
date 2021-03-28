@@ -58,3 +58,6 @@
 [submodule "app/precursor"]
 	path = app/precursor
 	url = git@github.com:PrecursorApp/precursor.git
+[submodule "app/status-react"]
+	path = app/status-react
+	url = git@github.com:status-im/status-react.git
