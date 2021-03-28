@@ -97,3 +97,6 @@
 [submodule "lib/garden"]
 	path = lib/garden
 	url = git@github.com:noprompt/garden.git
+[submodule "lib/clj-kondo"]
+	path = lib/clj-kondo
+	url = git@github.com:clj-kondo/clj-kondo.git
