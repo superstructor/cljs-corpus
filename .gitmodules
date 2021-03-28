@@ -46,3 +46,6 @@
 [submodule "lib/devcards"]
 	path = lib/devcards
 	url = git@github.com:bhauman/devcards.git
+[submodule "app/goya"]
+	path = app/goya
+	url = git@github.com:jackschaedler/goya.git
