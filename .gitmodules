@@ -34,3 +34,6 @@
 [submodule "lib/datahike"]
 	path = lib/datahike
 	url = git@github.com:replikativ/datahike.git
+[submodule "app/lighttable"]
+	path = app/lighttable
+	url = git@github.com:LightTable/LightTable.git
