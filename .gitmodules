@@ -40,3 +40,6 @@
 [submodule "app/asciinema-player"]
 	path = app/asciinema-player
 	url = git@github.com:asciinema/asciinema-player.git
+[submodule "app/circleci-frontend"]
+	path = app/circleci-frontend
+	url = git@github.com:CircleCI-Archived/frontend.git
