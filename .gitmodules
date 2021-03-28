@@ -52,3 +52,6 @@
 [submodule "app/maria"]
 	path = app/maria
 	url = git@github.com:mhuebert/maria.git
+[submodule "app/netrunner"]
+	path = app/netrunner
+	url = git@github.com:mtgred/netrunner.git
