@@ -76,3 +76,6 @@
 [submodule "app/logseq"]
 	path = app/logseq
 	url = git@github.com:logseq/logseq.git
+[submodule "lib/shadow-cljs"]
+	path = lib/shadow-cljs
+	url = git@github.com:thheller/shadow-cljs.git
