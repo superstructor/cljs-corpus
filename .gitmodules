@@ -37,3 +37,6 @@
 [submodule "app/lighttable"]
 	path = app/lighttable
 	url = git@github.com:LightTable/LightTable.git
+[submodule "app/asciinema-player"]
+	path = app/asciinema-player
+	url = git@github.com:asciinema/asciinema-player.git
