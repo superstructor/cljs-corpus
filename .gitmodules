@@ -49,3 +49,6 @@
 [submodule "app/goya"]
 	path = app/goya
 	url = git@github.com:jackschaedler/goya.git
+[submodule "app/maria"]
+	path = app/maria
+	url = git@github.com:mhuebert/maria.git
