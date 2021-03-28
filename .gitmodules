@@ -67,3 +67,6 @@
 [submodule "lib/unravel"]
 	path = lib/unravel
 	url = git@github.com:Unrepl/unravel.git
+[submodule "app/wordsmith"]
+	path = app/wordsmith
+	url = git@github.com:joladev/wordsmith.git
