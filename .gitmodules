@@ -88,3 +88,6 @@
 [submodule "lib/promesa"]
 	path = lib/promesa
 	url = git@github.com:funcool/promesa.git
+[submodule "lib/tongue"]
+	path = lib/tongue
+	url = git@github.com:tonsky/tongue.git
