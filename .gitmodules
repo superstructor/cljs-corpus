@@ -55,3 +55,6 @@
 [submodule "app/netrunner"]
 	path = app/netrunner
 	url = git@github.com:mtgred/netrunner.git
+[submodule "app/precursor"]
+	path = app/precursor
+	url = git@github.com:PrecursorApp/precursor.git
