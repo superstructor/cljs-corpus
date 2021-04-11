@@ -112,3 +112,6 @@
 [submodule "app/conduit"]
 	path = app/conduit
 	url = git@github.com:jacekschae/conduit.git
+[submodule "app/vetd"]
+	path = app/vetd
+	url = git@github.com:Vetd-Inc/vetd-app.git
